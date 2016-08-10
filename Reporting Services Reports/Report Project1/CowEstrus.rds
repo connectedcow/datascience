@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CowEstrus">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=.;Initial Catalog=CCDemoDB</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>dc9d913c-7cd4-474f-832f-e7843a1c4853</DataSourceID>
+</RptDataSource>
